@@ -16,7 +16,7 @@ namespace Telecom.Data
 
         public DbSet<Device> Devices { get; set; }
 
-        public DbSet<PlanOptions> PlanOptions { get; set; }
+        public DbSet<Plan> Plans { get; set; }
 
         public TelecomContext(DbContextOptions options) : base(options)
         {

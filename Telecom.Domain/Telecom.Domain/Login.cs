@@ -6,13 +6,14 @@ using System.Threading.Tasks;
 
 namespace Telecom.Domain
 {
-    public class Account
+    public class Login
     {
-        public int AccountNumber { get; set; }
-
         public int PersonId { get; set; }
 
         public Person Person { get; set; }
 
+        public string Username { get; set; }
+
+        public string Password { get; set; }
     }
 }

@@ -8,8 +8,9 @@ namespace Telecom.Domain
 {
     public class Device
     {
-        public string DeviceName { get; set; }
-        public int PhoneNumber{ get; set; }
+        public int DeviceId { get; set; }
+
+        public string PhoneNumber { get; set; }
 
         public List<Person> People { get; set; }
     }

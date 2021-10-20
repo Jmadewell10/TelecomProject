@@ -6,17 +6,17 @@ using System.Threading.Tasks;
 
 namespace Telecom.Domain
 {
-    public class PlanOptions
+    public class Plan
     {
-        public string PlanId{ get; set; }
-
-        public int NumberOfDevices { get; set; }
+        public int PlanId { get; set; }
 
         public string PlanName { get; set; }
 
-        public bool IsUnlimited{ get; set; }
+        public int DeviceLimit { get; set; }
 
-        public double Price{ get; set; }
+        public bool isUnlimited { get; set; }
+
+        public double Price { get; set; }
 
         public List<Account> Accounts { get; set; }
     }
