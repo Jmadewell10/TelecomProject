@@ -10,3 +10,15 @@ D:\Skillstorm\Projects\TelecomProject\Telecom.Domain\Telecom.Domain\obj\Debug\ne
 D:\Skillstorm\Projects\TelecomProject\Telecom.Domain\Telecom.Domain\obj\Debug\net5.0\Telecom.Domain.dll
 D:\Skillstorm\Projects\TelecomProject\Telecom.Domain\Telecom.Domain\obj\Debug\net5.0\ref\Telecom.Domain.dll
 D:\Skillstorm\Projects\TelecomProject\Telecom.Domain\Telecom.Domain\obj\Debug\net5.0\Telecom.Domain.pdb
+C:\Users\ryant\source\repos\TelecomProject\Telecom.Domain\Telecom.Domain\bin\Debug\net5.0\Telecom.Domain.deps.json
+C:\Users\ryant\source\repos\TelecomProject\Telecom.Domain\Telecom.Domain\bin\Debug\net5.0\Telecom.Domain.dll
+C:\Users\ryant\source\repos\TelecomProject\Telecom.Domain\Telecom.Domain\bin\Debug\net5.0\ref\Telecom.Domain.dll
+C:\Users\ryant\source\repos\TelecomProject\Telecom.Domain\Telecom.Domain\bin\Debug\net5.0\Telecom.Domain.pdb
+C:\Users\ryant\source\repos\TelecomProject\Telecom.Domain\Telecom.Domain\obj\Debug\net5.0\Telecom.Domain.csproj.AssemblyReference.cache
+C:\Users\ryant\source\repos\TelecomProject\Telecom.Domain\Telecom.Domain\obj\Debug\net5.0\Telecom.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryant\source\repos\TelecomProject\Telecom.Domain\Telecom.Domain\obj\Debug\net5.0\Telecom.Domain.AssemblyInfoInputs.cache
+C:\Users\ryant\source\repos\TelecomProject\Telecom.Domain\Telecom.Domain\obj\Debug\net5.0\Telecom.Domain.AssemblyInfo.cs
+C:\Users\ryant\source\repos\TelecomProject\Telecom.Domain\Telecom.Domain\obj\Debug\net5.0\Telecom.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ryant\source\repos\TelecomProject\Telecom.Domain\Telecom.Domain\obj\Debug\net5.0\Telecom.Domain.dll
+C:\Users\ryant\source\repos\TelecomProject\Telecom.Domain\Telecom.Domain\obj\Debug\net5.0\ref\Telecom.Domain.dll
+C:\Users\ryant\source\repos\TelecomProject\Telecom.Domain\Telecom.Domain\obj\Debug\net5.0\Telecom.Domain.pdb

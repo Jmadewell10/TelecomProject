@@ -25,16 +25,20 @@ namespace Telecom.Data
 
         public TelecomContext()
         {
-                
+            
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Data Source=JONATHAN-PC;Initial Catalog=Telecom;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False")
-                    .LogTo(Console.WriteLine, new[] { DbLoggerCategory.Database.Name }, Microsoft.Extensions.Logging.LogLevel.Information).EnableSensitiveDataLogging();
+                optionsBuilder.UseSqlServer("Data Source=telecom10202021.database.windows.net;Initial Catalog=Telecom;User ID=users;Password=Welcome1;Connect Timeout=30;Encrypt=True;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False")
+                    .LogTo(Console.WriteLine, new[] { DbLoggerCategory.Database.Name }, Microsoft.Extensions.Logging.LogLevel.Information)
+                    .EnableSensitiveDataLogging();
+                    
             }
         }
+
+        
     }
 }
