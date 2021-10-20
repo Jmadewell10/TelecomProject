@@ -20,5 +20,9 @@ namespace Telecom.Domain
 
         public Account Account { get; set; }
 
+        public Login Login { get; set; }
+
+        public List<Device> Devices { get; set; }
+
     }
 }

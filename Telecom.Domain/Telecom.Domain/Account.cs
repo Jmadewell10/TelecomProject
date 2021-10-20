@@ -14,5 +14,7 @@ namespace Telecom.Domain
 
         public Person Person { get; set; }
 
+        public List<Plan> plans { get; set; }
+
     }
 }
