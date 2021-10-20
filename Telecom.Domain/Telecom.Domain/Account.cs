@@ -8,7 +8,7 @@ namespace Telecom.Domain
 {
     public class Account
     {
-        public int AccountNumber { get; set; }
+        public int AccountId { get; set; }
 
         public int PersonId { get; set; }
 

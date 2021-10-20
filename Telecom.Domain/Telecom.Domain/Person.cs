@@ -16,7 +16,7 @@ namespace Telecom.Domain
 
         public string Email { get; set; }
 
-        public int AccountNumber { get; set; }
+        public int AccountId { get; set; }
 
         public Account Account { get; set; }
 
