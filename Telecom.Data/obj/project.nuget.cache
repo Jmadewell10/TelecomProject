@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "tRBXuCoDpS/Jl09i6GE+CLt+rohFAD+p2MVul0DfYTpBXPvrc+t1bP+6bxAzBfEVEqEwDjTF/7q8Xe7TIjVHPw==",
+  "dgSpecHash": "0cD6my2KfUklNpRfy40tellW5WJTvmCVrzuxI0Wgmu38rDF41XMN8jrezk61Hpq2pM85xqss/lGTSsowbeM6rg==",
   "success": true,
   "projectFilePath": "D:\\Skillstorm\\Projects\\TelecomProject\\Telecom.Data\\Telecom.Data.csproj",
   "expectedPackageFiles": [
@@ -102,5 +102,12 @@
     "C:\\Users\\jonma\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\jonma\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\Skillstorm\\Projects\\TelecomProject\\Telecom.Data\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
